@@ -1,4 +1,6 @@
 import { Eva } from "../../../js/lib/eva.js";
+/*
+Need to actually get them working in browser...
 
 describe("eva", () => {
 	let eva;
@@ -17,3 +19,5 @@ describe("eva", () => {
 		});
 	})
 });
+
+*/
